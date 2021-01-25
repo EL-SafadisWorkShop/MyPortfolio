@@ -59,7 +59,7 @@ class About extends Component {
                   <a
                     href={yazzenCV2}
                     className="button"
-                    onClick={this.jsPDFGenerator}
+                    onClick={this.props.jsPDFGenerator}
                   >
                     <i className="fa fa-download"></i>Download Resume
                   </a>
