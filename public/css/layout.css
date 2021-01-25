@@ -708,8 +708,8 @@ call-to-action .button {
   background-attachment: fixed;
 
   position: relative;
-  min-height: 200px;
-  width: 100%;
+  min-height: 600px;
+  width: 400%;
   overflow: hidden;
 }
 #testimonials .text-container {
