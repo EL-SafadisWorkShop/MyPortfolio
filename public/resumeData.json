@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Penn State university - online",
@@ -57,7 +57,7 @@
         "description": "Hard diligent labor, Team-oriented atitude and thinking, Instructed team members, Porblem solving"
       },
       {
-        "title": "E-commerce Back-Office Coordinator @ Salamon/Safad GBR",
+        "title": "E-commerce Back-Office Coordinator @ Salamon/Safadi GBR",
         "Company": "",
         "years": "08/2017 - 01/2019",
         "description": "Translation & interpretation services, Vendors intercommunication, Inventory enumeration, Customer service"
